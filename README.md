@@ -20,7 +20,7 @@ Para el desarrollo de esta animacion, se dividio este proceso en las siguientes 
 
 Cabe resaltar algo antes de presentar el desarrollo de esta animacion, para la creacion y desarrollo de esta animacion fue necesario usar un componente independiente de Blender, este componente es Blender Game Engine (UPBGE). Si bien el entorno e interfaz es la misma, cabe destacar algunos elementos que no incorpara el software Blender Original, el elemento que juega un papel crucial en este proyecto es la opcion de Scripting llamado "Logic Bricks Editor", mediante cual nos permitira
 
-# Generacion y modelado de los objetos que intagran la entidad y el entorno.
+# Generacion y modelado de los objetos que integran la entidad y el entorno.
 
 Para la generacion de todos los objetos en esta animacion fue necesario usar el lenguaje de Python en Blender, este es el script que corresponde a la generacion, asi como el establecimiento de sus propiedades como tamaño, locacion o gravedad, de todos lo objetos 3D en la animacion:
 
