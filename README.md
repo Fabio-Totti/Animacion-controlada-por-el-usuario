@@ -88,3 +88,6 @@ Para iniciar esta animacion en tiempo real es necesario oprimir la letra "P", es
 
 ![Animation4](https://user-images.githubusercontent.com/72088585/144761473-fe013574-8ee8-4f08-8fa8-3546e285eb0e.gif)
 
+Link de archivo ejecutable formato .exe:
+
+https://drive.google.com/file/d/19d7KahoBhW9FLFZxoHBVwUv4V_35j8EA/view?usp=sharing
